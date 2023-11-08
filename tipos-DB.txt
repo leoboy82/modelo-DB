@@ -1,0 +1,32 @@
+Os bancos de dados mais utilizados no mercado, de acordo com os rankings dos sites DB-Engines e Statista, são¹:
+
+1. **Oracle Database** (Relacional)
+2. **MySQL** (Relacional)
+3. Microsoft SQL Server (Relacional)
+4. PostgreSQL (Relacional)
+5. MongoDB (Orientado a Documentos)
+6. IBM DB2 (Relacional)
+7. Redis (Chave-Valor)
+8. ElasticSearch (Motor de Busca)
+9. SQLite (Relacional)
+10. Microsoft Access Cassandra (Relacional Coluna Ampla)
+
+Vamos detalhar os dois primeiros:
+
+1. **Oracle Database**: É um sistema de gerenciamento de banco de dados relacional desenvolvido pela Oracle. Ele é amplamente utilizado em sistemas corporativos para gerenciar e processar dados em toda a organização. O Oracle Database oferece uma gama de versões com desempenho otimizado e custo-benefício, incluindo o Oracle Autonomous Database, que permite aos clientes simplificar ambientes de banco de dados relacionais e reduzir o gerenciamento das cargas de trabalho⁶.
+
+2. **MySQL**: É um sistema de gerenciamento de banco de dados relacional de código aberto que é muito popular na web. O MySQL é conhecido por sua facilidade de uso e capacidade de escalar para lidar com grandes volumes de dados. Ele é usado por muitos sites de alto tráfego na Internet, incluindo Facebook, Twitter e YouTube. O MySQL oferece uma edição comunitária gratuita, além de várias edições comerciais que oferecem recursos adicionais⁹¹².
+
+07/11/2023
+(1) 10 Sistemas de Bancos de Dados mais usados atualmente. http://www.bosontreinamentos.com.br/bancos-de-dados/10-sistemas-de-bancos-de-dados-mais-usados-atualmente/.
+(2) Banco de dados | Oracle Brasil. https://www.oracle.com/br/database/.
+(3) MySQL. https://www.mysql.com/.
+(4) MySQL :: MySQL Community Edition. https://www.mysql.com/products/community/.
+(5) TOP 10 principais SGBDs do mercado Mundial - Becode. https://becode.com.br/principais-sgbds/.
+(6) Bancos de dados mais utilizados no mercado: veja os 4 tipos! - Devskin. https://devskin.com/post/bancos-de-dados-mais-utilizados-no-mercado-veja-os-4-tipos.
+(7) undefined. https://db-engines.com/en/ranking.
+(8) undefined. https://www.statista.com/statistics/809750/worldwide-popularity-ranking-database-management-systems/.
+(9) Oracle Database Express Edition | Oracle Brasil. https://www.oracle.com/br/database/technologies/appdev/xe.html.
+(10) Oracle Database Free | Oracle Brasil. https://www.oracle.com/br/database/free/.
+(11) MySQL :: Download MySQL Community Server. https://dev.mysql.com/downloads/mysql/.
+(12) MySQL :: MySQL Downloads. https://www.mysql.com/downloads/.
